@@ -86,9 +86,6 @@ python app.py
   - **"Hospital próximo"** → Pesquisa hospitais no Google Maps
   - **"Mercado próximo"** → Pesquisa mercados no Google Maps
   - **"Restaurante próximo"** → Pesquisa restaurantes no Google Maps
-  - **"Shopping próximo"** → Pesquisa shoppings no Google Maps
-  - **"Padaria próxima"** → Pesquisa padarias no Google Maps
-  - **"Posto próximo"** → Pesquisa postos de combustível no Google Maps
 
 ---
 
